@@ -1,0 +1,8 @@
+{
+  "name": "purchase-interpreter-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "openai": "^6.0.0"
+  }
+}
